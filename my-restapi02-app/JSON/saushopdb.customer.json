@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6561ca964e1348d6cb021e00"
+  },
+  "firstname": "ทนงทวย",
+  "lastname": "คงควรคอย",
+  "tel": "0123456789",
+  "email": "tnong@gmail.com",
+  "sex": "M",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:21:10.896Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:21:34.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561cae34e1348d6cb021e04"
+  },
+  "firstname": "สมชาย",
+  "lastname": "เหมือนหญิง",
+  "tel": "0987654321",
+  "email": "somchay@gmail.com",
+  "sex": "M",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:22:27.765Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:22:27.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561cb0b4e1348d6cb021e06"
+  },
+  "firstname": "สมหญิง",
+  "lastname": "เหมือชาย",
+  "tel": "066666666",
+  "email": "somying@gmail.com",
+  "sex": "F",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:23:07.196Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:23:07.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561cb574e1348d6cb021e09"
+  },
+  "firstname": "พรณ์เดช",
+  "lastname": "เหมือนหาย",
+  "tel": "08888888",
+  "email": "prondach007@gmail.com",
+  "sex": "M",
+  "isActive": false,
+  "createdAt": {
+    "$date": "2023-11-25T10:24:23.258Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:24:23.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561cb844e1348d6cb021e0b"
+  },
+  "firstname": "อพร",
+  "lastname": "หาอยู่",
+  "tel": "0548949897",
+  "email": "LnwApron@gmail.com",
+  "sex": "F",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:25:08.825Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:25:40.448Z"
+  },
+  "__v": 0
+}]

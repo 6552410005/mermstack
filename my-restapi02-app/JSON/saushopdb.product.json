@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "6561c6afd7188269510d3396"
+  },
+  "productName": "ปากกา",
+  "productPrice": 10,
+  "productQuantity": 100,
+  "productStatus": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:04:31.230Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:04:31.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561c6d4d7188269510d3398"
+  },
+  "productName": "ดิน",
+  "productPrice": 10,
+  "productQuantity": 100,
+  "productStatus": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:05:08.198Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:05:08.198Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561c9694e1348d6cb021dfa"
+  },
+  "productName": "สมุด",
+  "productPrice": 20,
+  "productQuantity": 200,
+  "productStatus": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:16:09.290Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:16:09.290Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561c97b4e1348d6cb021dfc"
+  },
+  "productName": "ชีทภาษาไทย",
+  "productPrice": 120,
+  "productQuantity": 54,
+  "productStatus": true,
+  "createdAt": {
+    "$date": "2023-11-25T10:16:27.569Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:16:27.569Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6561ca264e1348d6cb021dfe"
+  },
+  "productName": "A4",
+  "productPrice": 90,
+  "productQuantity": 150,
+  "productStatus": false,
+  "createdAt": {
+    "$date": "2023-11-25T10:19:18.013Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T10:19:18.013Z"
+  },
+  "__v": 0
+}]
